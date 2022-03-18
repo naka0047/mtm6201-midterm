@@ -75,6 +75,8 @@ nav li:hover {
     border-bottom: 3px solid #F0E475;
 }
 
+/*the tags between line 80 to line 136 are for making the social media icon fancy*/
+
 .icon {
     position: absolute;
     right: 10%;
